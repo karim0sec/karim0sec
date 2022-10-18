@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on bounty programs & awesome projects
 - 📫 How to reach me [Twitter](https://twitter.com/alarabi_karim)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karim0sec&theme=radical)
+
 ![](https://komarev.com/ghpvc/?username=karim0sec&color=blueviolet)
 <!---
 karim0sec/karim0sec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
